@@ -6,7 +6,7 @@ indent() {
 
 echo "-----> Install ImageMagick"
 
-IMAGE_MAGICK_VERSION="${IMAGE_MAGICK_VERSION:-6.9.4-5}"
+IMAGE_MAGICK_VERSION="${IMAGE_MAGICK_VERSION:-6.9.4-6}"
 
 BUILD_DIR=$1
 CACHE_DIR=$2
